@@ -104,8 +104,6 @@ class GameApp extends egret.DisplayObjectContainer{
         this.shape2.addEventListener(egret.TouchEvent.TOUCH_TAP,this.onTouchTap2,this);
         this.addChild(this.text1);
         this.addChild(this.text2);
-
-
         this.addChild(this.shape1);
         this.addChild(this.shape2);
 

@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c657ac21-5330-4e8d-9071-627ce797501b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/HeroPre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/HeroPre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/bed0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bed0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/bed1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bed1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/bed2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bed2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/bedHalf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bedHalf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/bedIn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bedIn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/egret_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroAct0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroAct0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroAct1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroAct1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroAct2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroAct2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroAct3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroAct3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroEnd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroEnd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/heroUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/heroUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/overPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/overPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/startPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/startPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/resource/assets/startPage1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/assets/startPage1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/AnalyzerBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/BinAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Bitmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/BitmapFillMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/text/BitmapText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/text/BitmapTextSpriteSheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/BlendMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/Browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/ByteArray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/Circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/Circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/Circle.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/Circle.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/dom/DOMTrans.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/devices/DeviceContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/DisplayObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/DisplayObjectContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/physics/DynamicPhysicsObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/physics/DynamicPhysicsObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/physics/DynamicPhysicsObject.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/physics/DynamicPhysicsObject.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/tween/Ease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EgretDemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/Event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/EventDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/EventPhase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/external/ExternalInterface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/FontAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Graphics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/HTML5CanvasRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/devices/HTML5DeviceContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/net/HTML5NetContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/display/HTML5StageText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/interactive/HTML5TouchContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/HTTPStatusEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/HashObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/Hero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/Hero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/Hero.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/Hero.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/layout/HorizontalAlign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/IEventDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/IHashObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/IOErrorEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/ImageAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/Injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/text/InputController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/interactive/InteractionMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/JsonAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/LoadingUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/LoadingUI.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/Logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/Main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/MainContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/MainUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/MainUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/MainUI.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/MainUI.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/geom/Matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/MovieClip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/net/NetContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/jslib/NumberUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/PhysicsTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/PhysicsTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/PhysicsTest.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/PhysicsTest.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/geom/Point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/Profiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/geom/Rectangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/Recycler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/RenderFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/RenderTexture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/RendererContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/Resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/core/ResourceConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/events/ResourceEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/core/ResourceItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/core/ResourceLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/SAXParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/SheetAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/physics/SimpleCollision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/physics/SimpleCollision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/physics/SimpleCollision.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/physics/SimpleCollision.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/physics/SimplePhysicsObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/physics/SimplePhysicsObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/physics/SimplePhysicsObject.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/physics/SimplePhysicsObject.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/physics/SimplePhysicsScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/physics/SimplePhysicsScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/physics/SimplePhysicsScene.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/physics/SimplePhysicsScene.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/physics/SimplePhysicsSolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/physics/SimplePhysicsSolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/physics/SimplePhysicsSolver.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/physics/SimplePhysicsSolver.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/media/Sound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/SoundAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Sprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/SpriteSheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Stage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/StageDelegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/StageScaleMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/display/StageText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/StateIntro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/StateIntro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/StateIntro.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/StateIntro.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/StateOver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/StateOver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/StateOver.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/StateOver.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/physics/StaticPhysicsObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/physics/StaticPhysicsObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/physics/StaticPhysicsObject.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/physics/StaticPhysicsObject.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/TextAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/text/TextField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/text/TextFieldType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/text/TextInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/display/Texture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/Ticker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/Timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/TimerEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/interactive/TouchContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/events/TouchEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/TouchProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/TouchProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/TouchProxy.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/TouchProxy.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/TouchProxyEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/TouchProxyEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/src/TouchProxyEvent.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/src/TouchProxyEvent.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/tween/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/net/URLLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/net/URLLoaderDataFormat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/net/URLRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/net/URLRequestMethod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/net/URLVariables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/layout/VerticalAlign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/WebGLRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/webgl/WebGLShaderManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/renderer/webgl/WebGLUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/XML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/extension/resource/analyzer/XMLAnalyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/build_engine.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/callLater.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/core.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/config/description.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/egretProperties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/lib/egret_file_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/launcher/egret_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/launcher/egret_require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/bin-debug/src/game_file_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/getDefinitionByName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/getQualifiedClassName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/getTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/hasDefinition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/html5.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/launcher/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/context/localStorage/localStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/module_reference.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/launcher/native_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/launcher/release.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/resource/resource.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/setTimeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDemo/libs/core/egret/utils/toColorString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/src/GameApp.ts" afterPath="$PROJECT_DIR$/HelloWorld/src/GameApp.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/bin-debug/src/LoadingUI.js" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/LoadingUI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/resource/config/description.json" afterPath="$PROJECT_DIR$/HelloWorld/resource/config/description.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/egretProperties.json" afterPath="$PROJECT_DIR$/HelloWorld/egretProperties.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/bin-debug/src/game_file_list.js" afterPath="$PROJECT_DIR$/HelloWorld/bin-debug/src/game_file_list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/launcher/index.html" afterPath="$PROJECT_DIR$/HelloWorld/launcher/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/launcher/native_loader.js" afterPath="$PROJECT_DIR$/HelloWorld/launcher/native_loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/launcher/release.html" afterPath="$PROJECT_DIR$/HelloWorld/launcher/release.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/resource/resource.json" afterPath="$PROJECT_DIR$/HelloWorld/resource/resource.json" />
+    </list>
+    <ignored path="EgretDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EgretDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="loftcat" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/HelloWorld/src/GameApp.ts" />
+        <option value="$PROJECT_DIR$/HelloWorld/src/LoadingUI.ts" />
+        <option value="$PROJECT_DIR$/HelloWorld/egretProperties.json" />
+        <option value="$PROJECT_DIR$/TestDemo/egretProperties.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EgretDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EgretDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EgretDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitSpace\EgretDemo\TestDemo" />
+      <recent name="E:\gitSpace\EgretDemo\HelloWorld" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c657ac21-5330-4e8d-9071-627ce797501b" name="Default" comment="" />
+      <created>1414939837324</created>
+      <updated>1414939837324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TestDemo/libs/core/extension/resource/Resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9809">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/libs/core/jslib/NumberUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/libs/core/core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="118490">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/libs/module_reference.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bed0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bed1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bed2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bedHalf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bedIn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/egret_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroAct0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroAct1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroAct2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroAct3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroDown.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroEnd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/HeroPre.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/heroUp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/overPage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/startPage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/assets/startPage1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/config/description.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/resource/resource.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/physics/DynamicPhysicsObject.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/physics/SimpleCollision.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/physics/SimplePhysicsObject.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/physics/SimplePhysicsScene.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/physics/SimplePhysicsSolver.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4182">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/physics/StaticPhysicsObject.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/Circle.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="1122">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/Hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3553">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/LoadingUI.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/Main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1722" max-vertical-offset="2567">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/MainUI.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/PhysicsTest.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7157">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/StateIntro.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/StateOver.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/TouchProxy.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6409">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/src/TouchProxyEvent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/build.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/build_engine.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDemo/egretProperties.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="17" max-vertical-offset="289">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
